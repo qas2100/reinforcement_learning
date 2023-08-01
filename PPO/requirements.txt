@@ -1,0 +1,19 @@
+Python>=3.11
+
+required modules (should work on any up-to-date version from June 1st 2023 onwards):
+time
+math
+decimal
+requests
+hmac
+hashlib
+uuid
+base64
+json
+numpy
+tensorflow
+keras
+os
+pickle
+csv
+scipy
